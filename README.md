@@ -1,7 +1,7 @@
-# 👋 Hey there! I'm [Your Name]
+# 👋 Hey there! I'm Mayank Gautam
 
 🚀 **Full-Stack Developer | GenAI Builder | Cloud Explorer**  
-🎓 **B.Tech in Computer Science – 2nd Year**  
+🎓 **B.Tech in Computer Science – 2nd Year @ JK Lakshmipat University**  
 📍 Turning ideas into code, and code into magic ✨
 
 ---
@@ -65,23 +65,23 @@
 ## 📚 Education
 
 🎓 **B.Tech in Computer Science**  
-2nd Year | *[Your College Name]*  
+2nd Year | *JK Lakshmipat University*  
 
 ---
 
 ## 📈 GitHub Stats
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=radical&border_radius=5)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=tokyonight)  
-![Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mayankgautam29&theme=radical&border_radius=5)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mayankgautam29&layout=compact&theme=tokyonight)  
+![Stats](https://github-readme-stats.vercel.app/api?username=mayankgautam29&show_icons=true&theme=radical)
 
 ---
 
 ## 🤝 Let's Connect!
 
 - 🌐 Portfolio: *Coming soon...*  
-- 📫 Email: *[your.email@example.com]*  
-- 💼 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
+- 📫 Email: *mayankgautam.dev@gmail.com* (or use your preferred email)  
+- 💼 LinkedIn: [linkedin.com/in/mayankgautam29](https://linkedin.com/in/mayankgautam29)
 
 ---
 
