@@ -80,7 +80,7 @@
 
 - 🌐 Portfolio: *Coming soon...*  
 - 📫 Email: *gautam29july@gmail.com*
-- 💼 LinkedIn: [[linkedin.com/in/mayankgautam29](https://www.linkedin.com/in/mayank-gautam29)]([https://linkedin.com/in/mayankgautam29](https://www.linkedin.com/in/mayank-gautam29))
+- 💼 LinkedIn: [(https://www.linkedin.com/in/mayank-gautam29)]([https://linkedin.com/in/mayankgautam29](https://www.linkedin.com/in/mayank-gautam29))
 
 ---
 
