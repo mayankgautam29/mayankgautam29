@@ -80,8 +80,8 @@
 ## 🤝 Let's Connect!
 
 - 🌐 Portfolio: *Coming soon...*  
-- 📫 Email: *mayankgautam.dev@gmail.com* (or use your preferred email)  
-- 💼 LinkedIn: [linkedin.com/in/mayankgautam29](https://linkedin.com/in/mayankgautam29)
+- 📫 Email: *gautam29july@gmail.com*
+- 💼 LinkedIn: [linkedin.com/in/mayankgautam29]([https://linkedin.com/in/mayankgautam29](https://www.linkedin.com/in/mayank-gautam29))
 
 ---
 
