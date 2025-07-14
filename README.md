@@ -73,7 +73,6 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mayankgautam29&theme=radical&border_radius=5)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mayankgautam29&layout=compact&theme=tokyonight)  
-![Stats](https://github-readme-stats.vercel.app/api?username=mayankgautam29&show_icons=true&theme=radical)
 
 ---
 
@@ -81,7 +80,7 @@
 
 - 🌐 Portfolio: *Coming soon...*  
 - 📫 Email: *gautam29july@gmail.com*
-- 💼 LinkedIn: [linkedin.com/in/mayankgautam29]([https://linkedin.com/in/mayankgautam29](https://www.linkedin.com/in/mayank-gautam29))
+- 💼 LinkedIn: [[linkedin.com/in/mayankgautam29](https://www.linkedin.com/in/mayank-gautam29)]([https://linkedin.com/in/mayankgautam29](https://www.linkedin.com/in/mayank-gautam29))
 
 ---
 
